@@ -1,0 +1,17 @@
+{
+  "name": "surat-cinta-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord dengan fitur Surat Cinta dan auto-respon 'hallo'",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  }
+}
